@@ -1,0 +1,68 @@
+*{
+    margin:0; 
+    padding:0; 
+    box-sizing: border-box;
+}
+html{
+    font-family: "Orelega One", serif;
+
+}
+header {
+    background-color:rgb(7, 169, 233);
+    text-align:center ;
+}
+footer {
+    background-color: rgb(62, 176, 230);
+padding: 20px 50px;
+}
+.about {
+    background-color: rgba(68, 131, 173, 0.623);
+    padding:20px 50px ;
+}
+.articles {
+    background-color: rgba(146, 199, 230, 0.829);
+}
+h2{
+    text-align: center;
+    font-size: 3em;
+  color: rgb(6, 112, 211);
+}
+.avatar {
+    display: block;
+    margin: 20px auto;
+    width: 20em ;
+}
+p{
+    font-size: 1.5em;
+}
+.list {
+    margin-left: 50px;
+    font-size: 1.5em;
+}
+nav{
+    padding: 10px 50px;
+}
+.menu { list-style: none;
+}
+.html {
+    display: left;
+    margin: 20px auto;
+    width: 20em ;
+}
+h1{
+    text-align: center;
+    font-size: 4em; 
+}
+.title1 {
+    background-color: rgb(171, 231, 206);
+    font: size 4em;;
+}
+.data {
+    font-size: 1em; 
+}
+.title2{
+    color: black;
+    text-align: left;
+}
+
+
